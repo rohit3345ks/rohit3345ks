@@ -2,10 +2,6 @@
 
 ### An experienced React developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit3345ks&label=Profile views&color=0e75b6&style=flat" alt="rohit3345ks" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit3345ks" alt="rohit3345ks" /></a> </p>
-
 - 🔭 I'm currently working on **a NextJS project**
 
 - 🌱 I'm currently learning **DSA**
